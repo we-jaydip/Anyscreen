@@ -9,6 +9,7 @@ const Experience = () => {
       <h1 className="heading">
         Our <span className="text-purple">Services</span>
       </h1>
+      <p className="mt-12 text-center ">Our services are priced based on the scope and complexity of the project, starting at ₹4,999 and going up to ₹1,00,000. The exact pricing will be communicated before the commencement of the project.</p>
 
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
         {workExperience.map((card) => (

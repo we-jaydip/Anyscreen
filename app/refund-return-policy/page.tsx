@@ -29,8 +29,7 @@ const RefundReturnPolicy = () => {
             <h2 className="text-2xl font-semibold text-white">1. Pricing</h2>
             <p>
               Our services are priced based on the scope and complexity of the project, starting at ₹4,999 and going up to ₹1,00,000. 
-              The exact pricing will be communicated before the commencement of the project, and the applicable refund terms will 
-              be based on the agreed amount.
+              The exact pricing will be communicated before the commencement of the project.
             </p>
 
             <h2 className="text-2xl font-semibold text-white">2. Refund Terms</h2>
