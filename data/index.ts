@@ -127,7 +127,7 @@ export const testimonials = [
   {
     quote:
       "Our new website perfectly captures the essence of OfficeBing — modern, tech-smart, and growth-ready. The team understood our vision and delivered a high-performing site that our clients love. Great work!",
-    name: "Ajay Shaha",
+    name: "Rohit Gawali ",
     title: "Director of officebing",
     image: "/clients/officebing-logo.svg",
   },
@@ -158,6 +158,13 @@ export const testimonials = [
     name: "RA Omkar Thakur",
     title: "CEO of Filterfinance",
      image: "clients/ff-logo.svg",
+  },
+  {
+    quote:
+      "Earlier, my work was only visible on social media. But with this website, my professional presentation has become much stronger. Thanks to SEO and digital marketing support, I now receive inquiries directly from Google. The AnyScreen team is extremely supportive.",
+    name: "Vikas Kanade",
+    title: "Founder pixozhub",
+     image: "clients/pixozhub.jpg",
   },
 ];
 
